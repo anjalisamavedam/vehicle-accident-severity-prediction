@@ -5,7 +5,9 @@ This project is about vehicle accident severity prediction based on environmenta
 To read more about the method I followed, check out my **Medium article**! - https://anjalisamavedam.medium.com/vehicle-accident-severity-prediction-based-on-environmental-stimuli-using-machine-learning-3b35b4599667
 
 I used a data set titled "A Countrywide Traffic Accident Dataset" which you can find here:
+
 https://www.kaggle.com/sobhanmoosavi/us-accidents
+
 https://arxiv.org/abs/1906.05409
 
 References:
